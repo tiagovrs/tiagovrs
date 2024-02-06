@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tiagovrs
+- 👀 I’m interested in Computer Science & Learning Sciences
+- 🌱 I’m currently learning JavaScript, Html and CSS.
+- 💞️ I’m looking to collaborate on research about Computational Science applied to Physics and Maths learning.
+- 📫 How to reach me: linkedin.com/in/tiago-vsant
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I speak English and Portuguese fluently and I'm learning to speak Spanish!
